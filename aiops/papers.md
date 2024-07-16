@@ -17,9 +17,9 @@
 | 015  | [Nissist: An Incident Mitigation Copilot based on Troubleshooting Guides](https://arxiv.org/pdf/2402.17531) | `事故止损`            | [PDF](./papers/archives/2402.17531v2.pdf)                    |
 | 016  | [UNITS: A Unified Multi-Task Time Series Model](https://arxiv.org/pdf/2403.00131) | `时间序列`            | [PDF](./papers/archives/2403.00131v2.pdf)                    |
 | 017  | [Time-LLM: Time Series Forecasting by Reprogramming Large Language Models](https://arxiv.org/pdf/2310.01728) | `时间序列`            | [PDF](./papers/archives/2310.01728v2.pdf)                    |
-|      |                                                              |                       |                                                              |
-|      |                                                              |                       |                                                              |
-|      |                                                              |                       |                                                              |
+| 018  | [AutoKAD: Empowering KPI Anomaly Detection with Label-Free Deployment](https://nkcs.iops.ai/wp-content/uploads/2023/10/AutoKAD_ISSRE23.pdf) | `时序异常检测`        | [PDF](./papers/archives/AutoKAD_ISSRE23.pdf)                 |
+| 019  | [Studying the Characteristics of AIOps Projects on GitHub](https://arxiv.org/pdf/2212.13245) | `智能运维`            | [PDF](./papers/archives/2212.13245v2.pdf)                    |
+| 020  |                                                              | `根因定位`            |                                                              |
 |      |                                                              |                       |                                                              |
 |      |                                                              |                       |                                                              |
 |      |                                                              |                       |                                                              |

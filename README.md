@@ -1,2 +1,1 @@
-# awesome-ai
-Awesome AI
+
